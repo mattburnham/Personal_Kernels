@@ -1,4 +1,8 @@
-My Capstone Project: LEUKOCYTE CELL CLASSIFICATION FOR RAPID SCREENING OF BLOOD CANCER
-Completed 13th March 2020
+1. VGG16_ImageNet_4C_Blood_Classification_ver4.ipynb
 
-Accurate classification of morphological classes of leukocyte cells that are prevalent in the detection of acute myeloid leukemia (AML), being greater than the accuracy and efficiency of a human.
+	My Capstone Project: LEUKOCYTE CELL CLASSIFICATION FOR RAPID SCREENING OF BLOOD CANCER
+	Completed 13th March 2020
+
+	Accurate classification of morphological classes of leukocyte cells that are prevalent in the detection of acute myeloid leukemia (AML),being greater than the accuracy and efficiency of a human.
+
+	Q. Whether computer vision/ deep learning / a convolutional neural network has better accuracy and is more time efficient than a human 		being in the task of classifying blood cells that are prevalent in blood cancers such as AML.
